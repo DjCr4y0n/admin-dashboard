@@ -330,5 +330,7 @@ body
     grid-row: 3 / 5;
     grid-column: 1 / 3;
     background-color: #52525b;
+    text-align: center;
+    color: #e4e4e7;
 }
 
