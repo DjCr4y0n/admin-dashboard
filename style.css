@@ -204,10 +204,22 @@ body
 }
 
 
-.projects div
+.projects .card
 {
     background-color: #e4e4e7;
     border-radius: 12px;
+    border-left: 8px solid #0284c7;
+    display: grid;
+    grid-template: 1fr 50px / 1fr;
+}
+
+
+.icons
+{
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    margin-right: 15px;
 }
 
 
